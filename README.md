@@ -1,16 +1,16 @@
-# pizza_ui
+# Pizza Decoration UI
 
-A new Flutter project.
+A Flutter project for creating a pizza decoration UI with sliding pizza images.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Pizza Image Rotation**: Rotate the pizza image by sliding it.
+- **Change Image**: Automatically switch to the next pizza image after rotation.
+- **Intuitive UI**: Simple and intuitive user interface for pizza decoration.
 
-A few resources to get you started if this is your first Flutter project:
+## Video
+    https://github.com/BhavikPindoriya/pizza_ui/assets/154498968/155aee6e-68c7-400e-8c12-e442b84dcfb4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+

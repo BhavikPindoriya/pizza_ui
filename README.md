@@ -9,9 +9,6 @@ A Flutter project for creating a pizza decoration UI with sliding pizza images.
 - **Intuitive UI**: Simple and intuitive user interface for pizza decoration.
 
 ## Video
-    https://github.com/BhavikPindoriya/pizza_ui/assets/154498968/afd74857-33fc-4927-a15e-f62b439c423c
 
-
-
-
+[Watch the video](https://github.com/BhavikPindoriya/pizza_ui/assets/154498968/afd74857-33fc-4927-a15e-f62b439c423c)
 
